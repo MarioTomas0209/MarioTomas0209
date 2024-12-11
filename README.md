@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there! 👋
 
+Welcome to my GitHub profile! 🚀 I’m Mario, a passionate **Web Developer** and **Tech Enthusiast**. I love building web applications, learning new technologies. Here's a bit more about me:
 
-**MarioTomas0209/MarioTomas0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 **I’m currently working on:** Enhancing my skills and collaborating on projects at **Sentientinfo**.
+- 🌱 **I’m currently learning:** Advanced **React.js**, modern.
+- 💻 **Technologies I use:** 
+  - Frontend: HTML, CSS3, JavaScript, React.js
+  - Backend: PHP (Laravel), WordPress
+  - Tools: Git, GitHub, Visual Studio Code
+- 💬 **Ask me about:** Web development, creating dynamic user interfaces, or transitioning to modern frameworks like React.js.
+- 📫 **How to reach me:** 
+  - Email: tmario291@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/mario-tr/
+- ⚽ **Fun fact:** When I’m not coding, you’ll find me playing soccer or strumming my guitar! 🎸⚽
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+I’m always open to collaboration and eager to learn from the amazing GitHub community. Let’s build something awesome together! 💡
