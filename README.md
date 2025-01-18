@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! 🚀 I’m Mario, a passionate **Web Developer** and **Tech Enthusiast**. I love building web applications, learning new technologies. Here's a bit more about me:
 
 - 💻 **Technologies I use:** 
-  - Frontend: HTML, CSS3, JavaScript, React.js
+  - Frontend: HTML, CSS3, JavaScript, React.js, TypeScript
   - Backend: PHP (Laravel), WordPress
   - Tools: Git, GitHub, Visual Studio Code
 
